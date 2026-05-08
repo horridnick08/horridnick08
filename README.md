@@ -16,8 +16,8 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<img align="right" alt="Coding" width="310"
-src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+<img align="right" alt="Coding" width="380"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 # 🚀 About Me
 

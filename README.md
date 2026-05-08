@@ -16,10 +16,8 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<p align="right\">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
-
+<img align="right" alt="Coding" width="300"
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 # 🚀 About Me
 
@@ -88,7 +86,7 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ### 🎓 Student Performance Agentic AI
 
-AI-powered academic productivity ecosystem with intelligent study tracking, academic prediction, analytics dashboards, and AI assistance.
+AI-powered academic productivity ecosystem with intelligent study tracking, analytics dashboards, automation, and AI assistance.
 
 🔗 [View Project](https://github.com/horridnick08/Student_Performance_prediction_system-Agentic-Ai)
 

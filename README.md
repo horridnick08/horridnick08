@@ -16,8 +16,9 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<img align="right" alt="Coding" width="320"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="AI Coding" width="380"
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
 # 🚀 About Me
 
 - 🤖 Building intelligent Agentic AI systems  

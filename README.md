@@ -16,8 +16,8 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Coding" width="320"
+src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif">
 
 # 🚀 About Me
 
@@ -86,7 +86,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ### 🎓 Student Performance Agentic AI
 
-AI-powered academic productivity ecosystem designed to help students improve focus, automate workflows, track progress, and predict academic performance using intelligent AI systems.
+AI-powered academic productivity ecosystem with intelligent study tracking, academic prediction, analytics dashboards, and AI assistance.
 
 🔗 [View Project](https://github.com/horridnick08/Student_Performance_prediction_system-Agentic-Ai)
 
@@ -96,7 +96,7 @@ AI-powered academic productivity ecosystem designed to help students improve foc
 
 ### 💄 Scansure AI
 
-AI-driven counterfeit cosmetic detection platform that analyzes product authenticity using computer vision and provides intelligent dermatologist assistance.
+AI-driven counterfeit cosmetic detection platform with computer vision analysis and intelligent dermatologist assistance.
 
 🔗 [View Project](https://github.com/horridnick08/Scansure_Cosmetic-AI)
 
@@ -110,7 +110,7 @@ AI-driven counterfeit cosmetic detection platform that analyzes product authenti
 
 ### 🛒 Wearly AI
 
-Image-based e-commerce intelligence platform that compares product prices across platforms and finds smart affordable alternatives.
+Image-based e-commerce intelligence platform for smart product analysis and dynamic price comparison.
 
 🔗 [View Project](https://github.com/horridnick08/Wearly_AI-Ecommerce)
 
@@ -120,7 +120,7 @@ Image-based e-commerce intelligence platform that compares product prices across
 
 ### 🤖 Jarvis AI Assistant
 
-Agentic desktop assistant capable of voice interaction, workflow automation, YouTube search, messaging, and productivity management.
+Agentic desktop assistant capable of automation, workflow execution, voice interaction, and productivity management.
 
 🔗 [View Project](https://github.com/horridnick08/Jarvish_AI-Desktop_Assistant)
 
@@ -143,15 +143,8 @@ Agentic desktop assistant capable of voice interaction, workflow automation, You
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=horridnick08&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=horridnick08&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horridnick08&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=horridnick08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horridnick08&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -168,7 +161,7 @@ Agentic desktop assistant capable of voice interaction, workflow automation, You
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/nilesh-bokhare">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 

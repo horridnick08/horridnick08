@@ -16,17 +16,17 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<img align="right" alt="Coding" width="320"
-src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif">
+<img align="right" alt="Coding" width="240"
+src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 # 🚀 About Me
 
-- 🤖 Building intelligent Agentic AI systems
-- 🧠 Exploring LLMs, RAG pipelines & AI automation
-- 📊 Developing productivity-focused AI applications
-- ⚡ Passionate about solving real-world problems using AI
-- 💻 Focused on scalable AI architectures & modern web systems
-- 🚀 Creating AI products instead of basic academic projects
+- 🤖 Building intelligent Agentic AI systems  
+- 🧠 Exploring LLMs, RAG pipelines & AI automation  
+- 📊 Developing productivity-focused AI applications  
+- ⚡ Passionate about solving real-world problems using AI  
+- 💻 Focused on scalable AI architectures & modern web systems  
+- 🚀 Creating AI products instead of basic academic projects  
 
 ---
 
@@ -133,10 +133,10 @@ Agentic desktop assistant capable of automation, workflow execution, voice inter
 
 # 🏆 Achievements
 
-- 🥉 3rd Runner-Up — AMD National-Level Hackathon
-- 🚀 Built multiple AI-powered real-world applications
-- 💡 Passionate about AI automation & intelligent systems
-- ⚡ Exploring scalable AI architectures & GenAI ecosystems
+- 🥉 3rd Runner-Up — AMD National-Level Hackathon  
+- 🚀 Built multiple AI-powered real-world applications  
+- 💡 Passionate about AI automation & intelligent systems  
+- ⚡ Exploring scalable AI architectures & GenAI ecosystems  
 
 ---
 

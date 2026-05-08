@@ -14,6 +14,8 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&color=00BFFF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Agentic+AI+Developer;LLM+%26+RAG+Builder;Computer+Vision+Developer;Building+AI+Products+For+Real+World+Problems" />
 </p>
 
+---
+
 # 🚀 About Me
 
 - 🤖 Building intelligent Agentic AI systems  

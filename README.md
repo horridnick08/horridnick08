@@ -16,8 +16,8 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<img align="right" alt="Coding" width="300"
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding" width="280"
+src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 # 🚀 About Me
 
@@ -140,15 +140,6 @@ Agentic desktop assistant capable of automation, workflow execution, voice inter
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=horridnick08&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horridnick08&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -172,29 +163,6 @@ Agentic desktop assistant capable of automation, workflow execution, voice inter
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=horridnick08&label=Profile+Views&color=blue&style=flat" />
 </p>
-
----
-
-# ⚡ Current Focus
-
-```python
-class NileshBokhare:
-
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-
-        self.current_focus = [
-            "Agentic AI",
-            "LLMs",
-            "RAG Systems",
-            "Computer Vision",
-            "AI Automation",
-            "Productivity Systems"
-        ]
-
-    def build(self):
-        return "Intelligent AI Products 🚀"
-```
 
 ---
 

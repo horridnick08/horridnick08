@@ -16,138 +16,61 @@ Building intelligent AI systems that automate workflows, improve productivity, a
 
 ---
 
-<img align="right" alt="Coding" width="380"
+<img align="right" alt="Coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🚀 About Me
 
-- 🤖 Building intelligent **Agentic AI systems**
-- 🧠 Exploring **LLMs, RAG pipelines & AI automation**
+- 🤖 Building intelligent Agentic AI systems
+- 🧠 Exploring LLMs, RAG pipelines & AI automation
 - 📊 Developing productivity-focused AI applications
 - ⚡ Passionate about solving real-world problems using AI
 - 💻 Focused on scalable AI architectures & modern web systems
-- 🎯 Creating AI products instead of basic academic projects
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Languages
-
+### 👨‍💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
 </p>
 
----
-
-## 🤖 AI / Machine Learning
-
+### 🤖 AI / ML
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agentic%20AI-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GenAI-red?style=for-the-badge" />
 </p>
 
----
-
-## ⚙️ Backend & APIs
-
+### ⚙️ Backend & APIs
 <p>
 <img src="https://skillicons.dev/icons?i=flask,django,fastapi" />
 </p>
 
----
-
-## 🎨 Frontend
-
+### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
 </p>
 
----
-
-## 🗄️ Databases & Cloud
-
+### 🗄️ Databases & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,aws,git,github,vscode" />
 </p>
 
 ---
 
-# 🧠 Featured AI Projects
+# 🚀 Featured Projects
 
----
+- 🎓 [Student Performance Prediction System - Agentic AI](https://github.com/horridnick08/Student_Performance_prediction_system-Agentic-Ai)
 
-# 🎓 Student Performance Prediction System - Agentic AI
+- 💄 [Scansure AI](https://github.com/horridnick08/Scansure_Cosmetic-AI)
 
-### AI-powered student productivity ecosystem designed to improve focus, automate workflows, track growth, and predict academic performance.
+- 🛒 [Wearly AI](https://github.com/horridnick08/Wearly_AI-Ecommerce)
 
-## 🚀 Features
-- 🤖 Agentic AI Study Assistant
-- 📊 Academic Performance Prediction
-- 📈 Progress Analytics Dashboard
-- ⏳ Smart Study Timer
-- 🎯 Productivity Tracking
-- 🎤 Human-like AI Conversations
-- 🌐 YouTube Search Automation
-- 📱 Message Automation
-- 🔕 Device DND Control
-- 📚 Day-wise & Week-wise Analytics
-
-### 🛠️ Tech Used
-`Python` `Flask` `Machine Learning` `Agentic AI` `JavaScript` `SQLite`
-
----
-
-# 💄 Scansure AI
-
-AI-powered counterfeit cosmetic detection platform with intelligent skincare & dermatology assistance.
-
-## 🚀 Features
-- Fake cosmetic detection
-- Packaging authenticity analysis
-- AI dermatologist assistant
-- Conversational skincare guidance
-- Computer vision based analysis
-
-### 🛠️ Tech Used
-`Python` `Machine Learning` `Computer Vision` `React.js` `LLMs`
-
----
-
-# 🛒 Wearly AI
-
-AI-powered product intelligence platform for smart e-commerce analysis and image-based price comparison.
-
-## 🚀 Features
-- Product image scanning
-- Price comparison across platforms
-- Affordable alternatives detection
-- Product analytics system
-- AI-powered product insights
-
-### 🛠️ Tech Used
-`Python` `FastAPI` `React.js` `Vector Databases` `REST APIs`
-
----
-
-# 🤖 Jarvis AI Assistant
-
-Desktop AI assistant inspired by JARVIS capable of executing automation workflows and intelligent interactions.
-
-## 🚀 Features
-- Voice interaction
-- YouTube automation
-- Productivity workflows
-- ChatGPT integration
-- System task automation
-- Real-time assistant responses
-
-### 🛠️ Tech Used
-`Python` `Agentic AI` `FastAPI` `LLMs` `Automation`
+- 🤖 [Jarvis AI Assistant](https://github.com/horridnick08/Jarvish_AI-Desktop_Assistant)
 
 ---
 
@@ -156,7 +79,6 @@ Desktop AI assistant inspired by JARVIS capable of executing automation workflow
 - 🥉 3rd Runner-Up at AMD National-Level Hackathon
 - 🚀 Built multiple real-world AI systems
 - 💡 Strong focus on AI automation & intelligent productivity platforms
-- 🎯 Hands-on experience with scalable AI applications
 
 ---
 
@@ -196,27 +118,6 @@ Desktop AI assistant inspired by JARVIS capable of executing automation workflow
 
 ---
 
-# ⚡ Current Focus
-
-```python
-class NileshBokhare:
-
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.interests = [
-            "Agentic AI",
-            "LLMs",
-            "Automation",
-            "Computer Vision",
-            "RAG Systems"
-        ]
-
-    def build(self):
-        return "Intelligent AI Systems For Real-World Problems 🚀"
-```
-
----
-
 <h3 align="center">
-💡 “Building AI products that feel futuristic, practical, and impactful.” 💡
+⚡ Building AI Products That Solve Real Problems ⚡
 </h3>

@@ -128,7 +128,7 @@ Agentic desktop assistant capable of automation, workflow execution, voice inter
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - 🥉 3rd Runner-Up — AMD National-Level Hackathon  
 - 🚀 Built multiple AI-powered real-world applications  
